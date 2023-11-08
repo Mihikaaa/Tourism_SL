@@ -1,2 +1,2 @@
-# WDOS-2
-Web final assignment
+# Tourism_sl
+Tourism attraction website
